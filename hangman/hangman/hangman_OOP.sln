@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hangman_OOP", "hangman_OOP.csproj", "{91950482-2024-4723-B257-85D400DD40ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91950482-2024-4723-B257-85D400DD40ED}.Debug|x86.ActiveCfg = Debug|x86
+		{91950482-2024-4723-B257-85D400DD40ED}.Debug|x86.Build.0 = Debug|x86
+		{91950482-2024-4723-B257-85D400DD40ED}.Release|x86.ActiveCfg = Release|x86
+		{91950482-2024-4723-B257-85D400DD40ED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {769826CD-F17E-423F-A5D2-AEB8411484F9}
+	EndGlobalSection
+EndGlobal
